@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sol-Official
-- 👀 I’m interested in any fun projects
+- 👀 I’m interested in Minecraft custom texture and armor stand coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me - Discord Tag: 𝒮𝑜𝓁#1367
